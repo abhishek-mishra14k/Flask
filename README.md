@@ -50,7 +50,7 @@ FLASK/
 
 ## ⚙️ Installation
 
-1. Clone the repository
+1. Clone the repository 
 
 ```bash
 git clone https://github.com/abhishek-mishra14k/Flask.git
@@ -104,4 +104,4 @@ GitHub: https://github.com/abhishek-mishra14k
 
 ---
 
-⭐ If you found this project helpful, feel free to star the repository.
+⭐ If you found this project helpful, feel free to star the repository and connect with me .
