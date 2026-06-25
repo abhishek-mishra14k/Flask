@@ -1,0 +1,7 @@
+we have used template inheritance in it by making the base.html file and puting the cpode that will be used in my all the pages like header or body this is used because if we want to make changes in all the pages together then we will directly change the base .html page and the chnnage is deployed to alll the pages 
+
+
+we used the bootsrap to take the form and navbar from it to make my page look good and do  ot type laot of code and used sqlalchemy just go and read and learn about it and go to the site of flask and read it u will understand 
+
+
+if we want to write any varibale inside the jinja templating then we use the bouble curly braces to write it llike {{}}
